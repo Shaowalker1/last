@@ -1,5 +1,5 @@
 # last
-##lasst
-###llasste
+## lasst
+### llasste
 class practice repo
   hi ther this is me from 
